@@ -1,0 +1,1 @@
+Vendo o construtor Function do JavaScript
